@@ -6,7 +6,7 @@ function Navbar() {
     return(
         <nav className = "main-navbar">
             <Logo />
-            <Link to="/" className="logo-text">HDS Delivery</Link>
+            <Link to="/" className="logo-text">HD Delivery</Link>
         </nav>
     )   
 }

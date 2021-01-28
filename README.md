@@ -15,22 +15,26 @@ Os clientes registram seu pedido através da versão web,  e as entregas são ge
 
 ### Layout mobile
 ![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile1.png)
-![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile2.png)
-![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile3.png)
-![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile4.png)
-![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile5.png)
-![Mobile 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile6.png)
+![Mobile 2](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile2.png)
+![Mobile 3](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile3.png)
+![Mobile 4](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile5.png)
+![Mobile 5](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile7.png)
+![Mobile 6](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile8.png)
+![Mobile 7](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile9.png)
+![Mobile 8](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/mobile10.png)
+
 
 ### Layout web
 ![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web1.png)
-![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web2.png)
-![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web3.png)
-![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web4.png)
-![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web5.png)
-![Web 1](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web6.png)
+![Web 2](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web2.png)
+![Web 3](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web3.png)
+![Web 4](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web4.png)
+![Web 5](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web5.png)
+![Web 6](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web6.png)
+![Web 7](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/web7.png)
 
 ### Modelo conceitual
-![Modelo Conceitual](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/modelo-conceitual_sds2.png)
+![Modelo Conceitual](https://github.com/heliohdd/assets/blob/main/raw/main/sds2/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -94,4 +98,5 @@ npm start
 
 # Autor
 Hélio Dourado
+
 https://www.linkedin.com/in/heliohdd/

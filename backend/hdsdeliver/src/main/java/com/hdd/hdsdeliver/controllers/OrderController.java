@@ -15,7 +15,6 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.hdd.hdsdeliver.dto.OrderDTO;
-import com.hdd.hdsdeliver.entities.Order;
 import com.hdd.hdsdeliver.services.OrderService;
 
 import io.swagger.v3.oas.annotations.Operation;

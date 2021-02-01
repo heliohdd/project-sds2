@@ -15,9 +15,14 @@ import javax.persistence.ManyToMany;
 import javax.persistence.Table;
 import javax.validation.constraints.NotBlank;
 
+import org.springframework.hateoas.RepresentationModel;
+
+import com.fasterxml.jackson.annotation.JsonCreator;
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 @Entity
 @Table(name = "tb_order")
-public class Order implements Serializable {
+public class Order extends RepresentationModel<Order> implements Serializable {
 
 	private static final long serialVersionUID = 1L;
 	
@@ -41,7 +46,8 @@ public class Order implements Serializable {
 	public Order() {
 	}
 
-	public Order(Long id, String address, Double latitude, Double longitude, Instant moment, OrderStatus status) {
+	@JsonCreator
+	public Order(@JsonProperty("id") Long id, String address, Double latitude, Double longitude, Instant moment, OrderStatus status) {
 		this.id = id;
 		this.address = address;
 		this.latitude = latitude;

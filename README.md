@@ -48,7 +48,7 @@ Abaixo são listadas as tecnologias utilizadas para o desenvolvimento desta apli
 ## Back-end
 
  Confira a documentação da API conforme especificação Open API 3.0 neste link: 
- [documentação](https://hdsdeliver-sds2.herokuapp.com/swagger-ui-custom.html).
+ [documentação](https://app.swaggerhub.com/apis-docs/heliohdd/api-hd_delivery/1.0.0).
 
 - <b>Java 11 LTS</b> - (versão com suporte prolongado)
 - <b>Spring Boot 2.4.1</b> - (versão estável atual do framework)

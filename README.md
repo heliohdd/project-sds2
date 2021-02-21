@@ -2,10 +2,10 @@
 ## Solução Digital demonstrativa que apresenta de forma prática os conhecimentos obtidos no Bootcamp Semana DevSuperior 2.0
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/heliohdd/hdsdeliver-sds2/blob/main/LICENSE) 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aec2d68f-8264-40f1-aaaf-499abfc5d7dd/deploy-status)](https://app.netlify.com/sites/heliodourado/deploys) 
+<!--[![Netlify Status](https://api.netlify.com/api/v1/badges/aec2d68f-8264-40f1-aaaf-499abfc5d7dd/deploy-status)](https://app.netlify.com/sites/heliodourado/deploys) -->
 
 # Sobre o projeto
-Experimente o funcionamento do aplicativo conferindo aqui [<strong>a versão em modo produção <i>"on cloud".</i> </strong>](https://heliodourado.netlify.app)
+Experimente o funcionamento do aplicativo conferindo aqui [<strong>a versão em modo produção <i>"on cloud".</i> </strong>](https://heliodouradohdd.netlify.app/)
 
 HD Delivery é uma aplicação full stack web e mobile desenvolvida durante a 2ª edição da **Semana DevSuperior** que foi um evento online, organizado por iniciativa da [DevSuperior](https://devsuperior.com "Site da DevSuperior"), com o objetivo de criar uma demonstração do uso de tecnologias modernas com destaque para o <strong>React</strong> no <i>"front-end web"</i> e <strong>React Native</strong> no <i>"front-end mobile"</i>.
 

@@ -1,5 +1,5 @@
 # HD Delivery
-## Solução Digital demonstrativa que apresenta de forma prática os conhecimentos obtidos no Bootcamp Semana DevSuperior 2.0
+## Solução Digital desenvolvida em Java com Spring Boot e React integrada com mecanismo de geolocalização
 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/heliohdd/hdsdeliver-sds2/blob/main/LICENSE) 
 <!--[![Netlify Status](https://api.netlify.com/api/v1/badges/aec2d68f-8264-40f1-aaaf-499abfc5d7dd/deploy-status)](https://app.netlify.com/sites/heliodourado/deploys) -->

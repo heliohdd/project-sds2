@@ -88,7 +88,7 @@ Pré-requisito:
 ```
 $ git clone https://github.com/heliohdd/hdsdeliver-sds2.git
 
-$ cd hdsdeliver-sds2\backend\hdsdeliver
+$ cd hdsdeliver-sds2/backend/hdsdeliver
 ```
 
 **Executar o projeto**

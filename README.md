@@ -79,44 +79,9 @@ Para o armazenamento dos dados foi utilizado o Banco de Dados <strong>Postgresql
 
 # Como testar o projeto localmente?
 
-Pré-requisito:
+Pré-requisitos:
 - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
-## Back end
-
-**Clonar o repositório**
-
-```
-$ git clone https://github.com/heliohdd/hdsdeliver-sds2.git
-
-$ cd hdsdeliver-sds2/backend/hdsdeliver
-```
-
-**Executar o projeto**
-
-```
-$ ./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos:
 - [npm v14](https://nodejs.org/en)
-
-**Clonar o repositório**
-
-```
-$ git clone https://github.com/heliohdd/hdsdeliver-sds2.git
-
-$ cd front-web
-```
-
-**Executar o projeto**
-
-```
-$ npm start
-```
-
-## Front end mobile
-Pré-requisitos:
 - [npm v14](https://nodejs.org/en)
 - [expo](https://expo.io)
 
@@ -124,16 +89,35 @@ Pré-requisitos:
 
 ```
 $ git clone https://github.com/heliohdd/hdsdeliver-sds2.git
-
-$ cd front-mobile
 ```
 
 **Executar o projeto**
 
+## Back end
+
 ```
-$ npm start
+$ cd hdsdeliver-sds2/backend/hdsdeliver
+
+$ ./mvnw spring-boot:run
 ```
 
+
+## Front end web
+
+```
+$ cd hdsdeliver-sds2/front-web
+
+$ npm start
+```
+<!--
+## Front end mobile
+
+```
+$ cd hdsdeliver-sds2/front-mobile
+
+$ npm start
+```
+-->
 # Autor
 Hélio Dourado
 

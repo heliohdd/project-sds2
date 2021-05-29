@@ -82,7 +82,6 @@ Para o armazenamento dos dados foi utilizado o Banco de Dados <strong>Postgresql
 Pré-requisitos:
 - [Java 11](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html)
 - [npm v14](https://nodejs.org/en)
-- [npm v14](https://nodejs.org/en)
 - [expo](https://expo.io)
 
 **Clonar o repositório**

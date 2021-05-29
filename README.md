@@ -88,7 +88,7 @@ Pré-requisitos:
 **Clonar o repositório**
 
 ```
-$ git clone https://github.com/heliohdd/hdsdeliver-sds2.git
+$ git clone https://github.com/heliohdd/project-sds2.git
 ```
 
 **Executar o projeto**

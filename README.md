@@ -95,7 +95,7 @@ $ git clone https://github.com/heliohdd/project-sds2.git
 ## Back end
 
 ```
-$ cd project-sds2/backend/hdsdeliver
+$ cd project-sds2/backend
 
 $ ./mvnw spring-boot:run
 ```
